@@ -1,0 +1,46 @@
+{
+    "establishments": [
+        {
+            "name": "Wheat Field",
+            "cost": 1,
+            "color": "blue",
+            "icon": "wheat",
+            "activation": "1",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Ranch",
+            "cost": 1,
+            "color": "blue",
+            "icon": "cow",
+            "activation": "2",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Forest",
+            "cost": 3,
+            "color": "blue",
+            "icon": "gear",
+            "activation": "5",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        }
+    ]
+}

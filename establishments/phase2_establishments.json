@@ -1,0 +1,102 @@
+{
+    "establishments": [
+        {
+            "name": "Wheat Field",
+            "cost": 1,
+            "color": "blue",
+            "icon": "wheat",
+            "activation": "1",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Ranch",
+            "cost": 1,
+            "color": "blue",
+            "icon": "cow",
+            "activation": "2",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Bakery",
+            "cost": 1,
+            "color": "green",
+            "icon": "bread",
+            "activation": "2-3",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Convenience Store",
+            "cost": 2,
+            "color": "green",
+            "icon": "bread",
+            "activation": "4",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 3,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Forest",
+            "cost": 3,
+            "color": "blue",
+            "icon": "gear",
+            "activation": "5",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 1,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Mine",
+            "cost": 6,
+            "color": "blue",
+            "icon": "gear",
+            "activation": "9",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 5,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        },
+        {
+            "name": "Apple Orchard",
+            "cost": 3,
+            "color": "blue",
+            "icon": "wheat",
+            "activation": "10",
+            "effect": {
+                "type": "receive",
+                "target": "bank",
+                "amount": 3,
+                "modifierType": "none",
+                "modifier": "none"
+            }
+        }
+    ]
+}
